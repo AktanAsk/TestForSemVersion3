@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestForSemVersion3", "TestForSemVersion3\TestForSemVersion3.csproj", "{767C44C6-E95A-4034-8B63-004DDF7D340D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{767C44C6-E95A-4034-8B63-004DDF7D340D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{767C44C6-E95A-4034-8B63-004DDF7D340D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{767C44C6-E95A-4034-8B63-004DDF7D340D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{767C44C6-E95A-4034-8B63-004DDF7D340D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
